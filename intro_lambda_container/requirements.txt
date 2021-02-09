@@ -1,0 +1,29 @@
+-e .
+attrs==20.3.0
+aws-cdk.aws-ecr==1.88.0
+aws-cdk.aws-events==1.88.0
+aws-cdk.aws-iam==1.88.0
+aws-cdk.cloud-assembly-schema==1.88.0
+aws-cdk.core==1.88.0
+aws-cdk.cx-api==1.88.0
+aws-cdk.region-info==1.88.0
+aws-lambda-powertools==1.10.2
+aws-xray-sdk==2.6.0
+boto3==1.17.1
+botocore==1.20.1
+cattrs==1.1.2
+constructs==3.3.11
+fastjsonschema==2.15.0
+future==0.18.2
+## !! Could not determine repository location
+intro-lambda-container==0.0.1
+jmespath==0.10.0
+jsii==1.20.0
+jsonpickle==1.5.1
+publication==0.0.3
+python-dateutil==2.8.1
+s3transfer==0.3.4
+six==1.15.0
+typing-extensions==3.7.4.3
+urllib3==1.26.3
+wrapt==1.12.1

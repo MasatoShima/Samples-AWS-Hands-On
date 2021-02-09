@@ -1,0 +1,2 @@
+aws-lambda-powertools==1.10.2
+awslambdaric==1.0.0
